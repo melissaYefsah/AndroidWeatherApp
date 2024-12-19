@@ -70,6 +70,13 @@ If a city is already in your favorites list and you try to add it again, a toast
 The app allows you to toggle between Celsius and Fahrenheit for temperature readings.
 Tap the temperature unit to switch between the two units.
 
+## Screenshots 
+![image alt](https://github.com/melissaYefsah/AndroidWeatherApp/blob/master/DefaultScreen.png)
+![image alt](https://github.com/melissaYefsah/AndroidWeatherApp/blob/master/mainScreen.png)
+![image alt](https://github.com/melissaYefsah/AndroidWeatherApp/blob/master/WeatherForcast.png)
+![image alt](https://github.com/melissaYefsah/AndroidWeatherApp/blob/master/FavoriteWeatherCities.png)
+
+
 ## Contact
 
 For any questions or feedback, feel free to reach out to the maintainer:
